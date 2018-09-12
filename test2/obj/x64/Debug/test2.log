@@ -1,0 +1,8 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.131.129'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  test.cpp
+  Linking objects
+  test2.vcxproj -> C:\Users\Administrator\Desktop\项目1\test2\bin\x64\Debug\test2.out
